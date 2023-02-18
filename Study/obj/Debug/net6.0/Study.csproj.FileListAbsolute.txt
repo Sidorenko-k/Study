@@ -1,0 +1,15 @@
+/Users/kseniasidorenko/Example1/Study/Study/bin/Debug/net6.0/Study
+/Users/kseniasidorenko/Example1/Study/Study/bin/Debug/net6.0/Study.deps.json
+/Users/kseniasidorenko/Example1/Study/Study/bin/Debug/net6.0/Study.runtimeconfig.json
+/Users/kseniasidorenko/Example1/Study/Study/bin/Debug/net6.0/Study.dll
+/Users/kseniasidorenko/Example1/Study/Study/bin/Debug/net6.0/ref/Study.dll
+/Users/kseniasidorenko/Example1/Study/Study/bin/Debug/net6.0/Study.pdb
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.csproj.AssemblyReference.cache
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.AssemblyInfoInputs.cache
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.AssemblyInfo.cs
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.csproj.CoreCompileInputs.cache
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.dll
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/ref/Study.dll
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.pdb
+/Users/kseniasidorenko/Example1/Study/Study/obj/Debug/net6.0/Study.genruntimeconfig.cache
